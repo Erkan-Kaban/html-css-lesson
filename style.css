@@ -1,0 +1,38 @@
+h1 {
+    color: blueviolet;
+    border: black solid 5px;
+    background-color: yellowgreen;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+    color: rgb(241, 236, 236);
+    text-align: center;
+    background-color: rgb(18, 133, 233);
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+    
+}
+
+#first-item{
+    color:brown;
+    list-style-type: none;
+}
+
+.img-resize {
+    height: 20rem;
+    width: 20rem;
+}
+
+.center {
+    text-align: center;
+}
